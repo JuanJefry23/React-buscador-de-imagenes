@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JuanJefry23/React-buscador-de-imagenes/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/JuanJefry23/React-buscador-de-imagenes/static/js/main.94638b99.chunk.js",
+    "main.js.map": "/JuanJefry23/React-buscador-de-imagenes/static/js/main.94638b99.chunk.js.map",
+    "runtime-main.js": "/JuanJefry23/React-buscador-de-imagenes/static/js/runtime-main.585f3632.js",
+    "runtime-main.js.map": "/JuanJefry23/React-buscador-de-imagenes/static/js/runtime-main.585f3632.js.map",
+    "static/js/2.6aea07d5.chunk.js": "/JuanJefry23/React-buscador-de-imagenes/static/js/2.6aea07d5.chunk.js",
+    "static/js/2.6aea07d5.chunk.js.map": "/JuanJefry23/React-buscador-de-imagenes/static/js/2.6aea07d5.chunk.js.map",
+    "static/js/3.df78b9cc.chunk.js": "/JuanJefry23/React-buscador-de-imagenes/static/js/3.df78b9cc.chunk.js",
+    "static/js/3.df78b9cc.chunk.js.map": "/JuanJefry23/React-buscador-de-imagenes/static/js/3.df78b9cc.chunk.js.map",
+    "index.html": "/JuanJefry23/React-buscador-de-imagenes/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/JuanJefry23/React-buscador-de-imagenes/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6aea07d5.chunk.js.LICENSE.txt": "/JuanJefry23/React-buscador-de-imagenes/static/js/2.6aea07d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.585f3632.js",
+    "static/js/2.6aea07d5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.94638b99.chunk.js"
+  ]
+}
