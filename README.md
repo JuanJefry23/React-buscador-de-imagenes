@@ -1,2 +1,5 @@
-# React-buscador-de-imagenes
-Proyecto realizado en React , consume la api de Pixabay para buscar imagenes
+![](https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg)
+
+## PROYECTO : BUSCADOR DE IMAGENES 
+
+ESTE PROYECTO ESTA REALIZADO UTILIZANDO REACT JS Y ADEMÁS CONSUME LA API DE PIXABAY PARA BUSCAR IMAGENES 
